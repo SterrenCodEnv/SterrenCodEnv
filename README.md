@@ -40,7 +40,7 @@
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-  # 📊 GitHub Stats:
+  ## GitHub Stats:
   ![](https://github-readme-stats.vercel.app/api?username=SterrenCodEnv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=SterrenCodEnv&theme=dark&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SterrenCodEnv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
