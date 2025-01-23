@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./profile-pic.png" alt="Header" />
+
   <p>
     <a href="https://www.linkedin.com/in/sterrenjuan/"><strong>LinkedIn</strong></a> |
     <a href="https://jsterren.vercel.app/"><strong>Portfolio</strong></a>
